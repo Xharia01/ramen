@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ラーメン大戦争</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <!-- ヘッダー -->
+    <header>
+        <h1>ラーメン大戦争</h1>
+    </header>
+    <!-- ナビゲーションバー -->
+    <nav>
+        <a href="./index.html">トップページ</a>
+        <a href="./zinrui.html">人類みな麺類</a>
+        <a href="./wasyoi.html">麵屋わっしょい</a>
+        <a href="./zagin.html">座銀</a>
+        <a href="./hosomiti.html">ほそ道</a>
+        <a href="./war.html">ラーメン大戦争</a>
+    </nav>
+
+    <div class="center">
+        <h2>PISTOL（ピストル）</h2>
+    </div>
+
+    <!-- ラーメン画像 -->
+    <img src="./war.jpg" alt="">
+
+    <!-- ラーメン情報 -->
+    <div class="main-content">
+        <div class="center">
+            <p>ラーメン大戦争でおすすめするラーメンは<br>
+                この店一番人気のPISTOL（ピストル）です<br>
+                写真のようにどんぶりからはみ出るくらいに<br>
+                レアなチャーシューがびっしりのっていて<br>
+                鶏ガラスープと自家製麺がマッチして<br>
+                とても味わい深いものとなっている</p>
+        </div>
+
+        <!-- ラーメン情報 -->
+        <div class="center">
+            <h2><br>詳細情報</h2>
+        </div>
+        <div class="center_left">
+            <div style="text-align:left;">
+                <p>場所：大阪市北区堂山町15-14</p>
+                <p>電話番号：06-4301-4343</p>
+                <p>営業時間：11時00分～22時30分</p>
+                <p>価格：750円</p>
+            </div>
+        </div>
+    </div>
+    <footer>
+        <p><small>©2023&nbsp;Hayashida Takumi</small></p>
+    </footer>
+</body>
+</html>
